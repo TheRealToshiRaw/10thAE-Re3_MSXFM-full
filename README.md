@@ -1,5 +1,7 @@
-# MSXFM-full
-The full MSX FM station with all tracks
+# 10thAE-Re3_MSXFM-full    
+The full MSX FM 101.1 station with all tracks  
+
+(welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
 This repository was made for the conservation of video-gaming History;  
 because Art needs to be saved for our collective remembering.  
@@ -10,10 +12,10 @@ Developers need to be paid and fully supported for their job,
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the energetic taste of MSX hosted by MC Codebreaker:  
+# Now let's feel the energetic taste of MSX FM hosted by MC Codebreaker:  
 
 Radios on gta3 has changed through different iterations of the game,  
-here is the complete MSX iconic tracklist;  
+here is the complete MSX FM iconic tracklist;  
 (according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#MSX_FM  
 and https://gta.fandom.com/fr/wiki/MSX_FM#GTA_III )  
 
@@ -21,10 +23,10 @@ _just replace MSX.wav on your ux0:data/gta3/audio
 (tested and works correctly as is on any Vita version of your game.)  
 
 
-### MSX full (25:00 - 1536 Kbps - 274 Mo):  
+### MSX.wav full (25:00 - 1536 Kbps - 274 Mo):  
 (mixed by DJ Timecode)  
 
-00:00 -> 25:00  :  
+00:00 -> 25:00:  
 _Quagmire - Calyx  
 _Get Wild - Rascal & Klone  
 _Judgement Day - Ryme Tyme  
